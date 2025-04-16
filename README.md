@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MERN
 - 💬 Ask me anything about Java
 - 📫 How to reach me: sahilinfo189@gmail.com
-- 😄 My website: https://sahil-ali-01.github.io/Portfolio.github.io/
+- 😄 My website: https://sahil-portfolio-iota.vercel.app/
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
