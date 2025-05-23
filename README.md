@@ -14,7 +14,7 @@
  
  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Ali-01&show_icons=true&count_private=true&theme=dracula&cache_seconds=1800" height="150" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil-Ali-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil-Ali-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
