@@ -12,16 +12,17 @@
 
 <div align="center">
  
- <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Ali-01&show_icons=true&count_private=true&theme=dracula&cache_seconds=1800" height="200" alt="stats graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil-Ali-01&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=15&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Ali-01&show_icons=true&count_private=true&theme=dracula&cache_seconds=1800" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil-Ali-01&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=15&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Ali-01&theme=dracula&hide_border=true" height="150" alt="GitHub Streak Stats" />
 </div>
 
-###
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Ali-01&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
-###
-### Connect with me:
+## Connect with me:
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -35,7 +36,7 @@
 
 
 
-### Languages and Tools:
+## Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,html,css,js,figma,git,github,materialui,mongodb,mysql,nodejs,py,react,stackoverflow" />
@@ -44,5 +45,12 @@
 
 
 
+
+
 <br>
 ⭐️ From [Sahil Ali](https://github.com/Sahil-Ali-01)
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</div>
