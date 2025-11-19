@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Sahil ali</h1>
 
 - 🔭 I’m currently working on Java Full Stuck
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Spring Boot
 - 💬 Ask me anything about Java
 - 📫 How to reach me: sahilinfo189@gmail.com
 - 😄 My website: https://sahil-portfolio-iota.vercel.app/
