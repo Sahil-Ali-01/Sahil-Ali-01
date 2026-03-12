@@ -132,6 +132,13 @@ Tech Stack
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sahil-Ali-01/Sahil-Ali-01/output/github-contribution-grid-snake.svg"/>
+</p>
+---
+
 # ✨ Developer Quote
 
 <p align="center">
